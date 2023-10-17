@@ -1,6 +1,6 @@
-1 Katana zero
-2 darkest dungeon
-3 cyberpunk 2077
-4 divinity 2
-5 dark Souls
-6 cs 1.6
+1. Katana zero
+2. Darkest dungeon
+3. Cyberpunk 2077
+4. Divinity 2
+5. Dark Souls
+6. CS 1.6
